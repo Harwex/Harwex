@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Seb.be
 
-<!--
-**Harwex/Harwex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-Owner & Lead Developer** @ [NextModz-Studios](https://github.com/NextModz-Studios)
 
-Here are some ideas to get you started:
+Specialized in **FiveM Development** with a focus on creating robust, scalable server solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Current Project
+
+### **Next-Framework**
+A custom-built FiveM framework designed for optimal performance and modularity. Developed as the core foundation for NextModz-Studios servers.
+
+**Key Features:**
+- Modular architecture
+- Performance-optimized
+- Scalable infrastructure
+- Developer-friendly
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harwex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harwex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+## 🤝 NextModz-Studios
+
+Building innovative FiveM solutions with cutting-edge technology and professional support.
+
+---
+
+<div align="center">
+  
+**Open for collaboration** | **Professional inquiries welcome**
+
+</div>
