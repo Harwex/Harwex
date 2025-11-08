@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Seb.be
 
-**Co-Owner & Lead Developer** @ [NextModz-Studios](https://github.com/NextModz-Studios)
+**Co-Owner & Lead Developer** @ [NextModz-Studios](https://discord.gg/nxmz)
 
 Specialized in **FiveM Development** with a focus on creating robust, scalable server solutions.
 
